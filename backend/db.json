@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Nootbook MAC Pro max",
+      "price": 15000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung s20+ ultra",
+      "price": 6000.89
+    },
+    {
+      "name": "geladeira",
+      "price": 3500,
+      "id": 4
+    },
+    {
+      "name": "Tv plasma 45p",
+      "price": 1500,
+      "id": 5
+    },
+    {
+      "name": "mouse",
+      "price": 2,
+      "id": 6
+    },
+    {
+      "name": "celular j5",
+      "price": 30,
+      "id": 7
+    },
+    {
+      "name": "faboiola",
+      "price": 1,
+      "id": 8
+    },
+    {
+      "name": "borracha",
+      "price": 0.3,
+      "id": 9
+    },
+    {
+      "name": "plastico ",
+      "price": 33.5,
+      "id": 10
+    }
+  ]
+}
